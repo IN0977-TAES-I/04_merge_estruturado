@@ -1,0 +1,18 @@
+public class Matematica {
+<<<<<<<
+Matematica() {
+        System.out.println(“Olá!”);
+        System.out.println("Eu sou uma calculadora!");
+        System.out.println("Consigo fazer várias operações");
+    }
+=======
+>>>>>>>
+
+   private Calculadora calculadora;
+
+    Matematica(Calculadora calculadora) {
+        System.out.println(“Olá!”);
+        this.calculadora = calculadora;
+        System.out.println("Eu sou uma calculadora!");
+    }
+}

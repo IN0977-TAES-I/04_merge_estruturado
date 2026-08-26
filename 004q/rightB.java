@@ -1,0 +1,9 @@
+public class Matematica {
+   private Calculadora calculadora;
+
+    Matematica() {
+        System.out.println(“Olá!”);
+        this.calculadora = calculadora;
+        System.out.println("Eu sou uma calculadora!");
+    }
+}
